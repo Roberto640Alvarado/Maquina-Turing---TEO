@@ -1,0 +1,7 @@
+# Estado actual, Símbolo leído, Nuevo estado, Símbolo a escribir, Dirección (L o R)
+q0, a, q1, b, R
+q1, b, q2, c, L
+q2, a, accept, a, R
+q2, b, accept, b, R  
+q0, B, accept, B, R
+
