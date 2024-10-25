@@ -1,3 +1,10 @@
+### Integrantes:
+- Albeño Ortega, Douglas Alejandro (00166120)
+- Alfaro Ángel, Katerin Alexandra (00240620)
+- Alvarado Beltrán, Roberto Carlos (00176620)
+- Arucha Aguilar, Edwin Enrique (00175420)
+- Iglesias Moreno, David Alejandro (00047920)
+
 # Simulador de Máquina de Turing
 
 Este programa en Python simula una Máquina de Turing que utiliza una única cinta y recibe una **cadena de entrada** proporcionada por el usuario. El archivo `test.txt` (predefinido) contiene la **definición de la Máquina de Turing** (los estados y transiciones).
